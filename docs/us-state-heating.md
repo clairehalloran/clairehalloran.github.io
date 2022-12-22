@@ -1,7 +1,3 @@
-layout: post
-title: "Baby, it's cold outside: how are you and your neighbors staying warm this winter?"
-permalink: /us-state-heating
-
 How are you and your neighbors keeping your homes warm this winter? The answer depends on where in the US you live. Over half of US households heat their homes by burning fossil fuels-- most of these households use natural gas, but some use fuel oil, kerosene, or propane. In other parts of the country, households use electricity to heat their homes. How common are these different heating methods across the US, and what drives these differences?
 
 To answer these questions, I used data from the US Energy Information Agency's [2020 Residential Energy Consumption Survey](https://www.eia.gov/consumption/residential/data/2020/). Every few years since 1978, US Energy Information Agency, part of the Department of Energy, has surveyed people across the country about how they use energy in their homes, including how they heat their house. State-wide data is available about the share of households that use natural gas, propane, fuel oil or kerosene, and electricity as their main heating fuel. (Data about other heating fuels, such as wood, were not available.) Let's look into the how residential heating varies by state and some of the factors driving those differences.
