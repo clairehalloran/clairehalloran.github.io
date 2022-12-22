@@ -1,6 +1,7 @@
-<img src="/assets/Claire-formal-2021.jpg" alt="Claire, a white non-binary person with short blond hair wearing glasses, smiles at the camera in front of a wall covered in leaves." width="300"/>
-
-Hi! I'm Claire Halloran ([they/them](https://www.mypronouns.org/they-them)), a doctoral candidate in energy systems engineering at the University of Oxford [Energy and Power Group](https://epg.eng.ox.ac.uk/). I research the impact of heat pump deployment on the electricity system in the UK and US, with a focus on the spatial and grid planning aspects of this problem. During my PhD, I've become a bit of a map nerd and enjoyed communicating with policymakers and general audiences about my research.
+<center>
+<img src="/assets/Claire-formal-2021.jpg" alt="Claire, a white non-binary person with short blond hair wearing glasses, smiles at the camera in front of a wall covered in leaves." width="500"/>
+</center>
+Hi! I'm **Claire Halloran** ([they/them](https://www.mypronouns.org/they-them)), a doctoral candidate in energy systems engineering at the University of Oxford [Energy and Power Group](https://epg.eng.ox.ac.uk/). I research the impact of heat pump deployment on the electricity system in the UK and US, with a focus on the spatial and grid planning aspects of this problem. During my PhD, I've become a bit of a map nerd and enjoyed communicating with policymakers and general audiences about my research.
 
 # Blogs
 Check out my latest blog post here:
