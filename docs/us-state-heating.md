@@ -58,4 +58,4 @@ How you heat your home depends mostly on the weather in your state: natural gas 
 Heating is the largest energy use in US homes, and reducing emissions from heating is a key part of averting the worst impacts of the climate crisis. While high-efficiency electric heat pumps are currently only widespread in the Southeast, the majority of households across the US can reduce their emissions from heating by switching to a heat pump. Let's stay warm this winter without heating our planet!
 
 ### About the author
-[Claire Halloran](\index.md) is a doctoral candidate in energy systems engineering at the University of Oxford.
+[Claire Halloran](https://clairehalloran.github.io/) is a doctoral candidate in energy systems engineering at the University of Oxford.
