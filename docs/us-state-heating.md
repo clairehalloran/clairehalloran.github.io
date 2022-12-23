@@ -1,6 +1,6 @@
 ---
-Title: Baby, it's cold outside: how are you and your neighbors staying warm this winter?
-Description: Mapping heating across US states
+title: Baby, it's cold outside: how are you and your neighbors staying warm this winter?
+description: Mapping heating across US states
 ---
 How are you and your neighbors keeping your homes warm this winter? The answer depends on where in the US you live. Over half of US households heat their homes by burning fossil fuels-- most of these households use natural gas, but some use fuel oil, kerosene, or propane. In other parts of the country, households use electricity to heat their homes. How common are these different heating methods across the US, and what drives these differences?
 
