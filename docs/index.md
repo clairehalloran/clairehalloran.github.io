@@ -1,3 +1,5 @@
+<meta property="og:image" content="/assets/Claire-formal-2021.jpg" />
+
 <center>
 <img src="/assets/Claire-formal-2021.jpg" alt="Claire, a white non-binary person with short blond hair wearing glasses, smiles at the camera in front of a wall covered in leaves." width="500"/>
 </center>
