@@ -14,3 +14,10 @@ Hi! I'm Claire Halloran ([they/them](https://www.mypronouns.org/they-them)), a d
 ## Blogs
 Check out my latest blog post here:
 - [Baby, it's cold outside: how are you and your neighbors staying warm this winter?](/us-state-heating.md)
+
+## Recent Publications
+- Jesus Lizana, **Claire E Halloran**, Scot Wheeler, Nabil Amghar, Renaldi Renaldi, Markus Killendahl, Luis A Perez-Maqueda, Malcolm McCulloch, Ricardo Chacartegui. [A national data-based energy modelling to identify optimal heat storage capacity to support heating electrification.](https://doi.org/10.1016/j.energy.2022.125298) *Energy*. 2023.
+- **Claire E. Halloran**, Filiberto Fele, Malcolm D. McCulloch. [Impact of spatiotemporal heterogeneity in heat pump loads on generation and storage requirements](https://doi.org/10.1109/PESGM48719.2022.9916794). *IEEE PES General Meeting*. 2022. ([arXiv](https://arxiv.org/abs/2204.00353))
+- Lucy Allington, Carla Cannone, Ioannis Pappis, Karla Cervantes Barron, Will Usher, Steve Pye, Edward Brown, Mark Howells, Miriam Zachau Walker, Aniq Ahsan, Flora Charbonnier, **Claire Halloran**, Stephanie Hirmer, Jennifer Cronin, Constantinos Taliotis, Caroline Sundin, Vignesh Sridharan, Eunice Ramos, Maarten Brinkerink, Paul Deane, Andrii Gritsevskyi, Gustavo Moura, Arnaud Rouget, David Wogan, Edito Barcelona, Taco Niet, Holger Rogner, Franziska Bock, Jairo Quirós-Tortós, Jam Angulo-Paniagua, Satheesh Krishnamurthy, John Harrison, Long Seng To. [Selected ‘Starter kit’ energy system modelling data for selected countries in Africa, East Asia, and South America (#CCG, 2021)](https://doi.org/10.1016/j.dib.2022.108021). *Data in Brief*. 2022.
+- Carla Cannone, Lucy Allington, Karla Cervantes Barron, Flora Charbonnier, Miriam Zachau Walker, **Claire Halloran**, Rudolf Yeganyan, Naomi Tan, Jonathan M Cullen, John Harrison, Long Seng To, Mark Howells. [Designing a zero-order energy transition model: a guide for creating a Starter Data Kit](https://assets.researchsquare.com/files/rs-1403613/v2/a7e51564-c245-4258-aff9-43c9ea8e798c.pdf?c=1646775834). *Preprint*. 2022.
+
