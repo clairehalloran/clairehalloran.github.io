@@ -11,10 +11,12 @@ Hi! I'm Claire Halloran ([they/them](https://www.mypronouns.org/they-them)), a d
 - Twitter: [@ClaireEHalloran](https://twitter.com/ClaireEHalloran)
 - Mastodon: [clairehalloran@mastodon.energy](https://mastodon.energy/@clairehalloran)
 
-## Blogs
-Check out my latest blog posts here:
+## Media
+Check out my latest blog posts and other media here:
 - Press release: [How heat pumps can keep homes warm without frying the power grid](https://eng.ox.ac.uk/news/how-heat-pumps-can-keep-homes-warm-without-frying-the-power-grid/)
 - [Baby, it's cold outside: how are you and your neighbors staying warm this winter?](/us-state-heating.md)
+- Interview: [Renewable Energy Update: Balancing the Energy Grid](https://2ser.com/renewable-energy-update-balancing-the-energy-grid/)
+
 
 ## Recent Publications
 - Jesus Lizana, **Claire E Halloran**, Scot Wheeler, Nabil Amghar, Renaldi Renaldi, Markus Killendahl, Luis A Perez-Maqueda, Malcolm McCulloch, Ricardo Chacartegui. [A national data-based energy modelling to identify optimal heat storage capacity to support heating electrification.](https://doi.org/10.1016/j.energy.2022.125298) *Energy*. 2023.
