@@ -4,12 +4,13 @@
 <img src="/assets/Claire-formal-2021.jpg" alt="Claire, a white non-binary person with short blond hair wearing glasses, smiles at the camera in front of a wall covered in leaves." width="500"/>
 </center>
 
-Hi! I'm Claire Halloran ([they/them](https://www.mypronouns.org/they-them)), a doctoral candidate in energy systems engineering at the University of Oxford [Energy and Power Group](https://epg.eng.ox.ac.uk/) and a Rhodes Scholar. I research the impact of heat pump deployment on the electricity system in the UK and US, with a focus on the spatial and grid planning aspects of this problem. I use data-driven methods for spatial analysis of the impact that residential heat pump deployment will have on the electricity system. To understand how to manage this residential heating transition, I incorporate the resulting spatially and temporally granular data into energy system planning models. During my PhD, I've become a bit of a map nerd and enjoyed communicating with policymakers and general audiences about my research. Before starting my PhD, I earned my Bachelor's in Materials Science and Engineering at MIT.
+Hi! I'm Claire Halloran ([they/them](https://www.mypronouns.org/they-them)), a geospatially-focused energy system modeler specialized in power-to-X/sector-coupling applications and electricity demand changes. As a doctoral candidate in energy systems engineering at the University of Oxford  [Energy and Power Group](https://epg.eng.ox.ac.uk/) funded by the Rhodes Scholarship, I incorporate spatially granular heating data into electricity system planning models to assess the impact that residential heat pump deployment will have on the electricity system. As a part-time research assistant in the Climate Compatible Growth program, I developed an open-source geospatial planning tool to optimize green hydrogen production and transport. I'm also a bit of a map nerd and enjoy communicating with policymakers and general audiences about my research. Before starting my PhD, I earned my Bachelor's in Materials Science and Engineering at MIT.
+
 
 ## Contact
 - Email: claire [dot] halloran [at] eng.ox.ac.uk
+- LinkedIn: [Claire Halloran](http://www.linkedin.com/in/claire-halloran-energy)
 - Twitter: [@ClaireEHalloran](https://twitter.com/ClaireEHalloran)
-- Mastodon: [clairehalloran@mastodon.energy](https://mastodon.energy/@clairehalloran)
 
 ## Media
 Check out my latest blog posts and other media here:
@@ -19,6 +20,9 @@ Check out my latest blog posts and other media here:
 
 
 ## Recent Publications
+-	(*preprint*) Florian Egli, Flurina Schneider, Alycia Leonard, **Claire Halloran**, Nicholas Salmon, Tobias Schmidt, Stephanie Hirmer. [Green hydrogen export opportunities for African countries](https://zenodo.org/records/10696732).
+-	**Claire Halloran**, Alycia Leonard, Nicholas Salmon, Leander Müller, Stephanie Hirmer. [GeoH2 model: Geospatial optimization of green hydrogen production including storage and transportation](https://doi.org/10.1016/j.mex.2024.102660). MethodsX, vol. 12, p. 102660, Jun. 2024.
+-	Jesus Lizana, Scot Wheeler, Elnaz Azizi, **Claire Halloran**, Jonathan Wheeler, David C.H. Wallom, Malcolm McCulloch. [Integrated post-occupancy evaluation and intervention that achieve real-world zero-carbon buildings](https://doi.org/10.1016/j.enbuild.2023.113766). Energy and Buildings, vol. 303, p. 113766, Jan. 2024.
 - **Claire Halloran**, Jesus Lizana, Filiberto Fele, Malcolm McCulloch. [Data-based, high spatiotemporal resolution heat pump demand for power system planning](https://doi.org/10.1016/j.apenergy.2023.122331) *Applied Energy*. 2024.
 - Jesus Lizana, **Claire E Halloran**, Scot Wheeler, Nabil Amghar, Renaldi Renaldi, Markus Killendahl, Luis A Perez-Maqueda, Malcolm McCulloch, Ricardo Chacartegui. [A national data-based energy modelling to identify optimal heat storage capacity to support heating electrification.](https://doi.org/10.1016/j.energy.2022.125298) *Energy*. 2023.
 - **Claire E. Halloran**, Filiberto Fele, Malcolm D. McCulloch. [Impact of spatiotemporal heterogeneity in heat pump loads on generation and storage requirements](https://doi.org/10.1109/PESGM48719.2022.9916794). *IEEE PES General Meeting*. 2022. ([arXiv](https://arxiv.org/abs/2204.00353))
