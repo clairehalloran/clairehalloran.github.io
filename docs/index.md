@@ -10,7 +10,7 @@ Hi! I'm Claire Halloran ([they/them](https://www.mypronouns.org/they-them)), a g
 ## Contact
 - Email: claire [dot] halloran [at] nrel [dot] gov
 - LinkedIn: [Claire Halloran](http://www.linkedin.com/in/claire-halloran-energy)
-- Bluesky: [@clairehalloran.bsky.social]([https://twitter.com/ClaireEHalloran](https://bsky.app/profile/clairehalloran.bsky.social))
+- Bluesky: [@clairehalloran.bsky.social](https://bsky.app/profile/clairehalloran.bsky.social)
 
 ## Media
 Check out my latest blog posts and other media here:
