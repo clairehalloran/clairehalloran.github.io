@@ -4,13 +4,13 @@
 <img src="/assets/Claire-formal-2021.jpg" alt="Claire, a white non-binary person with short blond hair wearing glasses, smiles at the camera in front of a wall covered in leaves." width="500"/>
 </center>
 
-Hi! I'm Claire Halloran ([they/them](https://www.mypronouns.org/they-them)), a geospatially-focused energy system modeler specialized in power-to-X/sector-coupling applications and electricity demand changes. As a doctoral candidate in energy systems engineering at the University of Oxford  [Energy and Power Group](https://epg.eng.ox.ac.uk/) funded by the Rhodes Scholarship, I incorporate spatially granular heating data into electricity system planning models to assess the impact that residential heat pump deployment will have on the electricity system. As a part-time research assistant in the Climate Compatible Growth program, I developed an open-source geospatial planning tool to optimize green hydrogen production and transport. I'm also a bit of a map nerd and enjoy communicating with policymakers and general audiences about my research. Before starting my PhD, I earned my Bachelor's in Materials Science and Engineering at MIT.
+Hi! I'm Claire Halloran ([they/them](https://www.mypronouns.org/they-them)), a geospatially-focused energy system modeler specialized in sector-coupling applications and electricity demand changes. I am currently a researcher on the capacity expansion team in the Grid Planning and Analysis Center at the National Renewable Energy Lab. As a doctoral candidate in energy systems engineering at the University of Oxford  [Energy and Power Group](https://epg.eng.ox.ac.uk/) funded by the Rhodes Scholarship, I incorporated spatially granular heating data into electricity system planning models to assess the impact that residential heat pump deployment will have on the electricity system. As a part-time research assistant in the Climate Compatible Growth program, I developed an open-source geospatial planning tool to optimize green hydrogen production and transport. I'm also a bit of a map nerd and enjoy communicating with policymakers and general audiences about my research. Before starting my PhD, I earned my Bachelor's in Materials Science and Engineering at MIT.
 
 
 ## Contact
-- Email: claire [dot] halloran [at] eng.ox.ac.uk
+- Email: claire [dot] halloran [at] nrel [dot] gov
 - LinkedIn: [Claire Halloran](http://www.linkedin.com/in/claire-halloran-energy)
-- Twitter: [@ClaireEHalloran](https://twitter.com/ClaireEHalloran)
+- Bluesky: [@clairehalloran.bsky.social]([https://twitter.com/ClaireEHalloran](https://bsky.app/profile/clairehalloran.bsky.social))
 
 ## Media
 Check out my latest blog posts and other media here:
