@@ -1,4 +1,4 @@
-<meta property="og:image" content="/assets/102051_square.jpg" />
+<meta property="og:image" content="/assets/102051_square.JPG" />
 
 <center>
 <img src="/assets/102051_square.jpg" alt="Claire, a white non-binary person with short blond hair wearing glasses, smiles at the camera in front a white background." width="500"/>
